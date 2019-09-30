@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "479656730636",
+    "firebase_url": "https://my-diabetes-80b7d.firebaseio.com",
+    "project_id": "my-diabetes-80b7d",
+    "storage_bucket": "my-diabetes-80b7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479656730636:android:c062d325ea69e9da5ece29",
+        "android_client_info": {
+          "package_name": "com.sliit.medical.mydiabetes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479656730636-f6trhc8p810t0paueage4prd9ak2d995.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPDn8TX5OKnSsGJfh9oMzzgX_cYTMq62A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479656730636-f6trhc8p810t0paueage4prd9ak2d995.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
